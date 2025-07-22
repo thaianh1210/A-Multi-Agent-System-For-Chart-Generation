@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+openai
+pandasql
+sentence-transformers
+unidecode
+google-generativeai

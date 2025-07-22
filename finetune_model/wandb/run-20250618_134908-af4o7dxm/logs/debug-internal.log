@@ -1,0 +1,16 @@
+{"time":"2025-06-18T13:49:08.088181893Z","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/kaggle/working/wandb/run-20250618_134908-af4o7dxm/logs/debug-core.log"}
+{"time":"2025-06-18T13:49:08.335678237Z","level":"INFO","msg":"created new stream","id":"af4o7dxm"}
+{"time":"2025-06-18T13:49:08.335720094Z","level":"INFO","msg":"stream: started","id":"af4o7dxm"}
+{"time":"2025-06-18T13:49:08.33573672Z","level":"INFO","msg":"handler: started","stream_id":"af4o7dxm"}
+{"time":"2025-06-18T13:49:08.335763927Z","level":"INFO","msg":"sender: started","stream_id":"af4o7dxm"}
+{"time":"2025-06-18T13:49:08.335820979Z","level":"INFO","msg":"writer: Do: started","stream_id":"af4o7dxm"}
+{"time":"2025-06-18T13:49:08.458350796Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-18T16:02:23.67600971Z","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/thaianh102004-hanoi-university-of-science-and-technology/huggingface/af4o7dxm/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-06-18T16:27:28.2721277Z","level":"INFO","msg":"stream: closing","id":"af4o7dxm"}
+{"time":"2025-06-18T16:27:28.272179511Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-18T16:27:28.272242134Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-18T16:27:28.551596662Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-18T16:27:28.611641697Z","level":"INFO","msg":"handler: closed","stream_id":"af4o7dxm"}
+{"time":"2025-06-18T16:27:28.611681194Z","level":"INFO","msg":"sender: closed","stream_id":"af4o7dxm"}
+{"time":"2025-06-18T16:27:28.611673608Z","level":"INFO","msg":"writer: Close: closed","stream_id":"af4o7dxm"}
+{"time":"2025-06-18T16:27:28.611755713Z","level":"INFO","msg":"stream: closed","id":"af4o7dxm"}
